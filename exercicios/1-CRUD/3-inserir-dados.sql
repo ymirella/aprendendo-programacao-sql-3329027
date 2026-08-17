@@ -9,3 +9,9 @@ VALUES
 INSERT INTO salario_classe(salario, nivel)
 VALUES 
 (6000, 'analista 2');
+
+INSERT INTO salario_classe(salario, nivel)
+VALUES
+(3000, 'assistente'),
+(10000, 'assistente de negócios II'),
+(10000, 'especialista de pesquisa');
